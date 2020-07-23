@@ -1,0 +1,7 @@
+{
+  "name": "StocksApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
